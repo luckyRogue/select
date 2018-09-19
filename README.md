@@ -14,8 +14,7 @@ html结构为
     </div>
 >
 调用方法
->
-$('.select-box').select({
+>$('.select-box').select({
             slideBox: '.slide', //下拉框
             option: '.item',  //下拉框里的子元素
             showBox: 'span' //显示内容的地方
